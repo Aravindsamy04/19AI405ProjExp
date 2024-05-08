@@ -80,8 +80,8 @@ else:
 ```
 
 <h2>OUTPUT :</h2>
-![322334809-547b44a9-e903-4aa4-ac1c-f67c736b0417](https://github.com/Aravindsamy04/19AI405ProjExp/assets/113497037/b406db29-f7b6-49fd-87f5-a4d684ce89f9)
 
+![image](https://github.com/Aravindsamy04/19AI405ProjExp/assets/113497037/5b82d116-0579-4cfd-8b5a-7908dad43dee)
 
 
 <h2>RESULT :</h2>
